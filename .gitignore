@@ -1,0 +1,6 @@
+/.idea
+/cmake-build-*
+simpletest.cpp
+btest.cpp
+main.cpp
+CMakeLists.txt
